@@ -1,4 +1,4 @@
-# For patent application.
+# For software copyright application.
 
 Charge Simulation Method and Dipole Simulation Method for forward conformal mapping
 Complex Dipole Simulation Method for backward conformal mapping
